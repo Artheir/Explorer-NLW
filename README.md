@@ -6,7 +6,7 @@
 
 Projeto Construído do evento Next Level Week da Rocketseat.
 
-[🔗 Acesse aqui](https://artheir.github.io/NLW-Exp/)
+[🔗 Acesse aqui](https://artheir.github.io/Explorer-NLW/)
 
 
 ## Tecnologias Usadas
